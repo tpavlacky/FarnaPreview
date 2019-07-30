@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FarnaPreview", "FarnaPreview\FarnaPreview.csproj", "{3FB38853-D229-482E-A4AD-3B43B74F9A88}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FarnaPropertySheetPreview", "FarnaPropertySheetPreview\FarnaPropertySheetPreview.csproj", "{48D56660-C112-4296-8222-D90B83424948}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{EB6716B3-70CE-4812-A4C3-598ABFD90961}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{3FB38853-D229-482E-A4AD-3B43B74F9A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FB38853-D229-482E-A4AD-3B43B74F9A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FB38853-D229-482E-A4AD-3B43B74F9A88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48D56660-C112-4296-8222-D90B83424948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48D56660-C112-4296-8222-D90B83424948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48D56660-C112-4296-8222-D90B83424948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48D56660-C112-4296-8222-D90B83424948}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB6716B3-70CE-4812-A4C3-598ABFD90961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB6716B3-70CE-4812-A4C3-598ABFD90961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB6716B3-70CE-4812-A4C3-598ABFD90961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB6716B3-70CE-4812-A4C3-598ABFD90961}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
